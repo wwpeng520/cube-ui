@@ -1,4 +1,4 @@
-# cube-ui
+# @gayy/cube ui lib
 
 ## Getting Started
 
