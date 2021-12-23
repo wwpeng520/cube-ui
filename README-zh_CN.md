@@ -1,18 +1,18 @@
 # Cube UI
 
-English | [简体中文](./README-zh_CN.md)
+[English](./README.md) | 简体中文
 
-## 📦 Install
+## 📦 安装
 
 ```bash
-npm install antd
+npm install antd --save
 ```
 
 ```bash
 yarn add antd
 ```
 
-## 🔨 Usage
+## 🔨 示例
 
 ```jsx
 import { ColorDot } from '@gayy/cube';

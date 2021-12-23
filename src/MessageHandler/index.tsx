@@ -18,5 +18,5 @@ export default (
     message: title,
     description: text,
     duration,
-    icon: <CheckCircleOutlined />,
+    icon: <CheckCircleOutlined style={{ color: '#13939E' }} />,
   });
